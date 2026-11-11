@@ -1,0 +1,12 @@
+fastapi # create the python API used by the extension
+uvicorn[standard] # Runs the API server locally
+pandas
+scikit-learn
+joblib
+requests # Calls the online fact-check API
+trafilatura # Extracts article text from webpages
+python-dotenv # Loads API keys from environment variables
+datasets
+jupyter 
+ipykernel 
+matplotlib
